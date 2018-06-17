@@ -12,9 +12,5 @@ node{
     stage('Deploy to UAT') {
         echo "Deploy to UAT"
     }
-    stage('Deploy to prepod') {
-    
-    
-    }
     
 }
